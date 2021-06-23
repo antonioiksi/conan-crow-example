@@ -1,4 +1,5 @@
 ```sh
+apt update
 apt install build-essential
 apt install libboost-all-dev libssl-dev
 
